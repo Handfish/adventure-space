@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-ruby '2.3'
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 # Use Puma as the app server
 # Use SCSS for stylesheets
@@ -12,6 +10,7 @@ ruby '2.3'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 
 gem 'rails', '~> 5.0.0'
+gem 'bcrypt', '3.1.11'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'puma', '~> 3.0'
 gem 'sass-rails', '~> 5.0'

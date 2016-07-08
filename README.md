@@ -32,6 +32,8 @@ When the test suite passes, run a local server.
 $ rails server
 ```
 
+Create an account to access additional features.
+
 [//]: # (Things you may want to cover:)
 
 [//]: # (* System dependencies)

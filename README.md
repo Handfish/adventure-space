@@ -6,7 +6,7 @@ This app is intended for users to create their own account, message eachother, a
 
 * Ruby version 2.3.0
  
-[Current version of app deployed to Heroku](shielded-brushlands-68073.herokuapp.com)
+<a href="shielded-brushlands-68073.herokuapp.com">Current version of app deployed to Heroku</a>
 
 ## Getting started
 
